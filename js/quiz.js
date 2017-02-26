@@ -203,9 +203,9 @@
                '<p>' +
                '9. False' +
                '<p>' +
-               '10. Yes'
-
-               //<a onclick="getUrl();" href="#">Click here</a>
+               '10. Yes' +
+               '<p>' +
+               'Vist our homepage to learn more and find a clinic near you!'
 
              );
 

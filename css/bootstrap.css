@@ -1170,7 +1170,7 @@ img {
   height: auto;
 }
 .img-responsive {
-    
+
 }
 .img-rounded {
   border-radius: 6px;
@@ -4531,6 +4531,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar-left {
     float: left !important;
+  }
+  .navbar-center {
+    float: center !important;
   }
   .navbar-right {
     float: right !important;
