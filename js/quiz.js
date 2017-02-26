@@ -3,7 +3,7 @@
     question: "1. Condoms always prevent transmissions of STIs.",
     choices: ["True", "False"],
     correctAnswer: "False"
-  /*}, {
+  }, {
     question: "2. The only way to not get pregnant is to wear protection during sexual intercourse.",
     choices: ["True", "False"],
     correctAnswer: "False"
@@ -38,7 +38,7 @@
   }, {
     question: "10. I feel confident speaking to someone about my sexual health.",
     choices: ["Yes", "No"],
-    correctAnswer: "Yes"*/
+    correctAnswer: "Yes"
   }];
 
   var questionCounter = 0; //Tracks question number
@@ -204,7 +204,7 @@
                '9. False' +
                '<p>' +
                '10. Yes'
-               
+
                //<a onclick="getUrl();" href="#">Click here</a>
 
              );
